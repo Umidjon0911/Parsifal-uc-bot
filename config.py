@@ -1,0 +1,4 @@
+BOT_TOKEN = "7958267912:AAGn1yOedAj3xjBJPCuk65O1-5CYdtOg6bo"
+Admins = [1101514656]
+kanal_id = [-1002045640831]
+CHANNEL_LINK = "@ParsifalPubg"
